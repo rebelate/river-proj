@@ -6,7 +6,17 @@ ModelImporter:
   - first:
       74: -623603649343465320
     second: Scene
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: d1b8986dcc30db477b8f82ed4c77b97c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhatsApp Image 2021-07-05 at 9.11.34 AM
+    second: {fileID: 2100000, guid: e05bd776bf2cf7e0da92ebb3379cfa06, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
