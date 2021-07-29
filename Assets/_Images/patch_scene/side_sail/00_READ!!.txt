@@ -1,0 +1,30 @@
+MATERIAL QUANTITY
+
+level 1 : bottlepot
+bottle [10]
+
+Level 2 : turtlebank
+bottle & cardboard [3&2]
+
+level 3 : photoframe
+cardboard [5]
+
+level 4 : styroflower
+styrofoam cup & chopstick [3&5]
+
+level 5 : wallpocket
+styrofoam box & cardboard [3&2]
+
+level 6 : newsholder
+bottle & plank [6&2]
+
+level 7 : milkship
+milk carton & chopstick [3&5]
+
+level 8 : airplane
+popsicle stick [10]
+
+P.S Use the font on the folder named "soupofjustice", yes thats the official name of the font DONT WORRY ABOUT IT 
+
+
+

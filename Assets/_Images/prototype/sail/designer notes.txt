@@ -1,0 +1,2 @@
+button : 75% opacity
+water [#8DE6C7] : 50% opacity
